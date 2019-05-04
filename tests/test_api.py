@@ -8,16 +8,23 @@ class TestAPI:
     This tests some API calls
     """
     @staticmethod
-    def _assert_equal(a, b):
-        """
-        Method to compare two status codes
-        :param a: actual status code
-        :param b: expected status code
+    def _assert_equal(a: int, b: int) -> None:
+        """ Method to compare two status codes
+
+        Args:
+            a (int): actual status code
+            b (int): expected status code
+
+        Returns:
+            None
+
+        Rises:
+            AssertionError
         """
         if a != b:
-            raise AssertionError("Getting {} status code instead {} as response".format(a, b))
+            raise AssertionError(f'Getting {a} status code instead {b} as response')
 
-    def test_get_posts(self):
+    def test_get_posts(self) -> None:
         """
         Testing posts
         """
@@ -25,7 +32,7 @@ class TestAPI:
 
         self._assert_equal(response.status_code, HTTP_OK)
 
-    def test_get_post(self):
+    def test_get_post(self) -> None:
         """
         Testing post
         """
@@ -33,7 +40,7 @@ class TestAPI:
 
         self._assert_equal(response.status_code, HTTP_OK)
 
-    def test_get_comments(self):
+    def test_get_comments(self) -> None:
         """
         Testing comments
         """
@@ -41,7 +48,7 @@ class TestAPI:
 
         self._assert_equal(response.status_code, HTTP_OK)
 
-    def test_get_comment(self):
+    def test_get_comment(self) -> None:
         """
         Testing comment
         """
