@@ -1,5 +1,5 @@
-# automaton-v6
-Automation framework (API) - an example. Based on Python, Pytest
+# Automaton-v6
+Automation testing framework (API) - an example. Based on Python, Pytest
 
 [![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/BurhanH/automaton-v6/blob/master/LICENSE)
 [![Build Status](https://travis-ci.org/BurhanH/automaton-v6.svg?branch=master)](https://travis-ci.org/BurhanH/automaton-v6)
