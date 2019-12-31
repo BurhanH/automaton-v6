@@ -37,5 +37,3 @@ virtualenv (virtual environment manager) <br>
 3) Activate virtual environment <br>
 4) Move to `automaton-v6` folder <br>
 5) Execute `pytest` <br>
-
-To be continue ...
