@@ -37,3 +37,9 @@ virtualenv (virtual environment manager) <br>
 3) Activate virtual environment <br>
 4) Move to `automaton-v6` folder <br>
 5) Execute `pytest` <br>
+
+## Techology stack and helpful info
+[Python 3.6](https://docs.python.org/3.6/) / [Python 3.7](https://docs.python.org/3.7/) <br>
+[virtualenv](https://packaging.python.org/guides/installing-using-pip-and-virtualenv/) <br>
+[GitHub, cloning repository](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) <br>
+[Pytest](https://docs.pytest.org/en/latest/contents.html#toc) <br>
