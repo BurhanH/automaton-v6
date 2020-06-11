@@ -8,7 +8,7 @@ Automation testing framework (API) - an example. Based on Python, Pytest
 
 
 ## Requirements
-Python 3.6.\*/3.7.\*, Pytest 4.4.1, <br> 
+Python 3.6.\*/3.7.\*, Pytest 4.4.1, <br>
 virtualenv (virtual environment manager) <br>
 
 ## Project structure
