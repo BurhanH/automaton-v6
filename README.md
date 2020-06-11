@@ -6,7 +6,6 @@ Automation testing framework (API) - an example. Based on Python, Pytest
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/de0608ead5c64b9488245288b3dc4d52)](https://app.codacy.com/app/BurhanH/automaton-v6?utm_source=github.com&utm_medium=referral&utm_content=BurhanH/automaton-v6&utm_campaign=Badge_Grade_Dashboard)
 [![HitCount](http://hits.dwyl.com/BurhanH/automaton-v6.svg)](http://hits.dwyl.com/BurhanH/automaton-v6)
 
-
 ## Requirements
 Python 3.6.\*/3.7.\*, Pytest 4.4.1, <br>
 virtualenv (virtual environment manager) <br>
