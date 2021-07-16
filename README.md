@@ -3,7 +3,7 @@ Automation testing framework (API) - an example. Based on Python, Pytest
 
 [![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/BurhanH/automaton-v6/blob/master/LICENSE)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/de0608ead5c64b9488245288b3dc4d52)](https://app.codacy.com/app/BurhanH/automaton-v6?utm_source=github.com&utm_medium=referral&utm_content=BurhanH/automaton-v6&utm_campaign=Badge_Grade_Dashboard)
-[![Python testing](https://github.com/BurhanH/automaton-v6/actions/workflows/python-app.yml/badge.svg)](https://github.com/BurhanH/automaton-v6/actions/workflows/python-app.yml)
+[![Python pytest testing](https://github.com/BurhanH/automaton-v6/actions/workflows/python-app.yml/badge.svg)](https://github.com/BurhanH/automaton-v6/actions/workflows/python-app.yml)
 
 ## Requirements
 Python 3.6.\*/3.7.\*/3.8.\*, Pytest 4.4.1, <br>
